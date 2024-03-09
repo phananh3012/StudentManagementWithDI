@@ -95,7 +95,7 @@ namespace StudentManagementWithDI.Service
 			Console.Write("Ban co muon tiep tuc khong? (Y/N): ");
 
 			List<Classroom> classList = _classroomService.GetAll();
-			string subjectName = _subjectService.GetSubjectName(classList[id].SubjectId);
+			string subjectName = _subjectService.GetSubjectName(classList[id + 1].SubjectId);
 			ISubject subjectType = _subjectService.GetSubjectType(subjectName);
 			foreach (KeyValuePair<double, double> kvp in subjectType.GradeRatio)
 			{
