@@ -73,7 +73,7 @@ namespace StudentManagementWithDI.Service
 		public void DisplaySubjects()
 		{
 			List<Classroom> classList = _classroomService.GetAll();
-			Console.WriteLine("Danh sach mon hoc");
+			Console.WriteLine("Danh sach mon hoc hi");
 			Console.WriteLine("STT\tHo ten\t\t\tMon hoc");
 			foreach (var classMember in classList)
 			{
