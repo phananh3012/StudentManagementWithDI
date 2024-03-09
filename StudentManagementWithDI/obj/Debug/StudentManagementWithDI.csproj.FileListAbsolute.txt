@@ -8,3 +8,7 @@ D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\ob
 D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\obj\Debug\StudentManagementWithDI.csproj.CopyComplete
 D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\obj\Debug\StudentManagementWithDI.exe
 D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\obj\Debug\StudentManagementWithDI.pdb
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\Castle.Core.dll
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\Castle.Windsor.dll
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\Castle.Core.xml
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\Castle.Windsor.xml

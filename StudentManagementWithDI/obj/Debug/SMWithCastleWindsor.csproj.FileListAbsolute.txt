@@ -1,0 +1,14 @@
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\StudentManagementWithDI.exe.config
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\StudentManagementWithDI.exe
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\StudentManagementWithDI.pdb
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\Castle.Core.dll
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\Castle.Windsor.dll
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\Dapper.dll
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\Castle.Core.xml
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\Castle.Windsor.xml
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\bin\Debug\Dapper.xml
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\obj\Debug\SMWithCastleWindsor.csproj.AssemblyReference.cache
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\obj\Debug\SMWithCastleWindsor.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\obj\Debug\SMWithCastleWindsor.csproj.CopyComplete
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\obj\Debug\StudentManagementWithDI.exe
+D:\Workspace\dotnet\SDS\3. DI\StudentManagementWithDI\StudentManagementWithDI\obj\Debug\StudentManagementWithDI.pdb
