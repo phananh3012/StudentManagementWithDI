@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<hibernate-mapping xmlns = "urn:nhibernate-mapping-2.2"
+   assembly = "SMWithNHibernate" namespace = "SMWithNHibernate">
+
+	<class name = "Classroom">
+		<id name = "ClassroomId">
+			<generator class = "native"/>
+		</id>
+		<property name = "StudentId"/>
+		<property name = "SubjectId"/>
+		<property name = "FirstGrade"/>
+		<property name = "SecondGrade"/>
+		<property name = "FinalGrade"/>
+		<property name = "Result"/>
+	</class>
+
+</hibernate-mapping>
